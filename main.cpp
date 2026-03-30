@@ -5,7 +5,7 @@ int main () {
     // variable declaration
     string name;
 
-    cout << "Enter your name: ";
+    cout << "Enter your name : ";
     cin >> name;
     cout<< "Your name is: "<< name << endl;
     return 0;
